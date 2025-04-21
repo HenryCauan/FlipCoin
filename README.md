@@ -17,11 +17,5 @@ Bem-vindo ao **FlipCoin**, um jogo simples de **cara ou coroa** feito com HTML, 
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-- [Tailwind CSS](https://tailwindcss.com) *(opcional, caso você tenha integrado)*
+- [Tailwind CSS](https://tailwindcss.com) 
 
-## 📦 Como executar o projeto
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/HenryCauan/FlipCoin.git
